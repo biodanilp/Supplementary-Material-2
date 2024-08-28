@@ -1,6 +1,5 @@
-# Install the 'ggplot2' package if you haven't installed it yet
 # install.packages("ggplot2")
-
+install.packages("ggplot2")
 # Load the necessary library
 library(ggplot2)
 
